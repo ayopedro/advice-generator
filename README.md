@@ -14,11 +14,6 @@ Users should be able to:
 -  Access the site  both on desktop and mobile. tried to make the site responsive.
 
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
 I first created the html page using part  of the template from frontendmentor and then I customized the page using css and finally wrote a little javascript to get the page responsive.
 
